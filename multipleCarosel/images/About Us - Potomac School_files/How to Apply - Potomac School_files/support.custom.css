@@ -1,0 +1,72 @@
+/**
+ * ticket #8459323
+ * 09/13/2016
+ * Jim Moore
+ * adj year spacing in roster element
+*  Added to stash 04/10/17 - James B
+ */
+
+/*
+.fsRosterName {
+    margin-left: -27px;
+}
+
+.fsRosterClass {
+    margin-top: -22px;
+    margin-left: 125px;
+}
+*/
+/*End of Section*/
+
+/**
+ * 8462432
+ * 9/29/16
+ * Chris Batt
+ * Styling the My Cart link in the store
+ */
+
+.cart-link {
+    position: absolute;
+    top: 0;
+    right: 16px;
+    font-size: 18px;
+}
+
+.adjust-height .fsSocialVideoFrame {
+    max-height: 500px !important;
+}
+
+/*
+@media (max-width: 1000px){
+.adjust-height .fsSocialVideoFrame {
+    max-height: 400px !important;
+}
+}
+
+@media (max-width: 800px){
+.adjust-height .fsSocialVideoFrame {
+    max-height: 350px !important;
+}
+}
+
+@media (max-width: 700px){
+.adjust-height .fsSocialVideoFrame {
+    max-height: 300px !important;
+}
+}
+
+@media (max-width: 600px){
+.adjust-height .fsSocialVideoFrame {
+    max-height: 250px !important;
+}
+}
+
+
+@media (max-width: 500px){
+.adjust-height .fsSocialVideoFrame {
+    max-height: 185px !important;
+}
+}
+*/
+
+/*End of Section*/
