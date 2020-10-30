@@ -2,7 +2,7 @@
     <head>
             <link rel="stylesheet" type="text/css" href="carousel.css">
             <script type="text/javascript" src="scripts.js"></script>
-            <link rel="stylesheet" href="css/bootstrap.css" type='text/css'>
+            <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
                 <title>
                     Test
                 </title>
