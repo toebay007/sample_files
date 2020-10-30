@@ -4,7 +4,7 @@
             <script type="text/javascript" src="scripts.js"></script>
             <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
                 <title>
-                    Test
+                    <p>Test</p>
                 </title>
     </head>
     <body>
