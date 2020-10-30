@@ -1,4 +1,5 @@
-<html>
+<!DOCTYPE HTML>
+<html lang="zxx">
     <head>
             <link rel="stylesheet" type="text/css" href="carousel.css">
             <script type="text/javascript" src="scripts.js"></script>
