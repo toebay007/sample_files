@@ -1,12 +1,11 @@
 <!DOCTYPE HTML>
 <html lang="zxx">
     <head>
+        <title>Test</title>
             <link rel="stylesheet" type="text/css" href="carousel.css">
-            <script type="text/javascript" src="scripts.js"></script>
             <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
-                <title>
-                    <p>Test</p>
-                </title>
+            <script type="text/javascript" src="scripts.js"></script>
+                
     </head>
     <body>
             <!-- Top content -->
